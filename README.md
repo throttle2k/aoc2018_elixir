@@ -1,0 +1,28 @@
+# aoc2018_elixir
+My solutions for Advent of Code 2018 in Elixir
+
+- [x] Day 1: Chronal Calibration
+- [ ] 
+- [ ]
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
