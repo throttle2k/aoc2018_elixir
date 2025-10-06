@@ -6,7 +6,7 @@ My solutions for Advent of Code 2018 in Elixir
 - [x] Day 3: No Matter How You Slice It
 - [x] Day 4: Repose Record
 - [x] Day 5: Alchemical Reduction
-- [ ] Day 6: Chronal Coordinates
+- [x] Day 6: Chronal Coordinates
 - [ ] Day 7: The Sum of Its Parts
 - [ ] Day 8: Memory Maneuver
 - [ ] Day 9: Marble Mania
