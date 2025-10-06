@@ -5,7 +5,7 @@ My solutions for Advent of Code 2018 in Elixir
 - [x] Day 2: Inventory Management System
 - [x] Day 3: No Matter How You Slice It
 - [x] Day 4: Repose Record
-- [ ] Day 5: Alchemical Reduction
+- [x] Day 5: Alchemical Reduction
 - [ ] Day 6: Chronal Coordinates
 - [ ] Day 7: The Sum of Its Parts
 - [ ] Day 8: Memory Maneuver
