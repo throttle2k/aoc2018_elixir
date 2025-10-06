@@ -4,7 +4,7 @@ My solutions for Advent of Code 2018 in Elixir
 - [x] Day 1: Chronal Calibration
 - [x] Day 2: Inventory Management System
 - [x] Day 3: No Matter How You Slice It
-- [ ] Day 4: Repose Record
+- [x] Day 4: Repose Record
 - [ ] Day 5: Alchemical Reduction
 - [ ] Day 6: Chronal Coordinates
 - [ ] Day 7: The Sum of Its Parts
