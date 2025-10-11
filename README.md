@@ -10,7 +10,7 @@ My solutions for Advent of Code 2018 in Elixir
 - [x] Day 7: The Sum of Its Parts
 - [x] Day 8: Memory Maneuver
 - [x] Day 9: Marble Mania
-- [ ] Day 10: The Stars Align
+- [x] Day 10: The Stars Align
 - [ ] Day 11: Chronal Charge
 - [ ] Day 12: Subterranean Sustainability
 - [ ] Day 13: Mine Cart Madness
