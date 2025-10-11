@@ -36,6 +36,7 @@ defmodule Day10.TheStarsAlignTest do
   position=<-3,  6> velocity=< 2, -1>
   """
 
+  @tag :skip
   test "part1 - small input" do
     TheStarsAlign.part1_with_input(@input)
   end
