@@ -13,7 +13,7 @@ My solutions for Advent of Code 2018 in Elixir
 - [x] Day 10: The Stars Align
 - [x] Day 11: Chronal Charge
 - [x] Day 12: Subterranean Sustainability
-- [ ] Day 13: Mine Cart Madness
+- [x] Day 13: Mine Cart Madness
 - [ ] Day 14: Chocolate Charts
 - [ ] Day 15: Beverage Bandits
 - [ ] Day 16: Chronal Classification
