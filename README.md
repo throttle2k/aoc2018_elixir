@@ -14,7 +14,7 @@ My solutions for Advent of Code 2018 in Elixir
 - [x] Day 11: Chronal Charge
 - [x] Day 12: Subterranean Sustainability
 - [x] Day 13: Mine Cart Madness
-- [ ] Day 14: Chocolate Charts
+- [x] Day 14: Chocolate Charts
 - [ ] Day 15: Beverage Bandits
 - [ ] Day 16: Chronal Classification
 - [ ] Day 17: Reservoir Research
