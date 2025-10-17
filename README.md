@@ -15,7 +15,7 @@ My solutions for Advent of Code 2018 in Elixir
 - [x] Day 12: Subterranean Sustainability
 - [x] Day 13: Mine Cart Madness
 - [x] Day 14: Chocolate Charts
-- [ ] Day 15: Beverage Bandits
+- [x] Day 15: Beverage Bandits
 - [ ] Day 16: Chronal Classification
 - [ ] Day 17: Reservoir Research
 - [ ] Day 18: Settlers of The North Pole
