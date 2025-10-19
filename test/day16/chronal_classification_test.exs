@@ -1,7 +1,6 @@
 defmodule Day16.ChronalClassificationTest do
   use ExUnit.Case, async: true
   alias Day16.ChronalClassification
-  alias Day16.ChronalClassification.Sample
 
   test "part1 - samples that behaves like 3 or more opcodes" do
     input = """
