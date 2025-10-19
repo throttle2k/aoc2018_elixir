@@ -18,7 +18,7 @@ My solutions for Advent of Code 2018 in Elixir
 - [x] Day 15: Beverage Bandits
 - [x] Day 16: Chronal Classification
 - [x] Day 17: Reservoir Research
-- [ ] Day 18: Settlers of The North Pole
+- [x] Day 18: Settlers of The North Pole
 - [ ] Day 19: Go With The Flow
 - [ ] Day 20: A Regular Map
 - [ ] Day 21: Chronal Conversion
