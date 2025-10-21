@@ -21,7 +21,7 @@ My solutions for Advent of Code 2018 in Elixir
 - [x] Day 18: Settlers of The North Pole
 - [x] Day 19: Go With The Flow
 - [x] Day 20: A Regular Map
-- [ ] Day 21: Chronal Conversion
+- [x] Day 21: Chronal Conversion
 - [ ] Day 22: Mode Maze
 - [ ] Day 23: Experimental Emergency Teleportation
 - [ ] Day 24: Immune System Simulator 20XX
