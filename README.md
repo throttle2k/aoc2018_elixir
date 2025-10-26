@@ -22,7 +22,7 @@ My solutions for Advent of Code 2018 in Elixir
 - [x] Day 19: Go With The Flow
 - [x] Day 20: A Regular Map
 - [x] Day 21: Chronal Conversion
-- [ ] Day 22: Mode Maze
-- [ ] Day 23: Experimental Emergency Teleportation
+- [x] Day 22: Mode Maze
+- [x] Day 23: Experimental Emergency Teleportation
 - [ ] Day 24: Immune System Simulator 20XX
 - [ ] Day 25: Four-Dimensional Adventure
