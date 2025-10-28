@@ -24,5 +24,5 @@ My solutions for Advent of Code 2018 in Elixir
 - [x] Day 21: Chronal Conversion
 - [x] Day 22: Mode Maze
 - [x] Day 23: Experimental Emergency Teleportation
-- [ ] Day 24: Immune System Simulator 20XX
+- [x] Day 24: Immune System Simulator 20XX
 - [ ] Day 25: Four-Dimensional Adventure
