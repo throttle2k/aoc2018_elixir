@@ -25,4 +25,4 @@ My solutions for Advent of Code 2018 in Elixir
 - [x] Day 22: Mode Maze
 - [x] Day 23: Experimental Emergency Teleportation
 - [x] Day 24: Immune System Simulator 20XX
-- [ ] Day 25: Four-Dimensional Adventure
+- [x] Day 25: Four-Dimensional Adventure
